@@ -1,4 +1,4 @@
-# BioDatabase-and-BioTools
+# BioDatabases-and-BioTools
 A collection of biological databases and biological tools.
 
 ## biological databases
